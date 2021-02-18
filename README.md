@@ -1,6 +1,19 @@
 # zairyu
 OCR Zairyu Card
 
+## Requirements:
+- cv2 for Python
+
+## Troubeshooting:
+- Install OpenCV for Python (not for Ubuntu) using:
+``` 
+pip3 install opencv-python
+```
+- Make sure your pip is not too old to read newer versions of OpenCV
+```
+pip3 install --upgrade pip
+```
+
 ## How to run the test:
 ```
 cd zairyu
