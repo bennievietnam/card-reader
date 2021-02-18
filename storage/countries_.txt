@@ -1,0 +1,579 @@
+アフガニスタン
+Afghanistan	1946年
+11月19日
+アルバニア
+Albania	1955年
+12月14日
+アルジェリア
+Algeria	1962年
+10月8日
+アンドラ
+Andorra	1993年
+7月28日
+アンゴラ
+Angola	1976年
+12月1日
+アンチグア・バーブーダ
+Antigua and Barbuda	1981年
+11月11日
+アルゼンチン
+Argentina	1945年
+10月24日
+アルメニア
+Armenia	1992年
+3月2日
+オーストラリア
+Australia	1945年
+11月1日
+オーストリア
+Austria	1955年
+12月14日
+アゼルバイジャン 
+Azerbaijan	1992年
+3月2日
+バハマ
+Bahamas	1973年
+9月18日
+バーレーン
+Bahrain	1971年
+9月21日
+バングラデシュ
+Bangladesh	1974年
+9月17日
+バルバドス
+Barbados	1966年
+12月9日
+ベラルーシ
+Belarus	1945年
+10月24日
+ベルギー
+Belgium	1945年
+12月27日
+ベリーズ
+Belize	1981年
+9月25日
+ベナン
+Benin	1960年
+9月20日
+ブータン
+Bhutan	1971年
+9月21日
+ボリビア
+Bolivia　(Plurinational State of)	1945年
+11月14日
+ボスニア・ヘルツェゴビナ
+Bosnia and Herzegovina	1992年
+5月22日
+ボツワナ
+Botswana	1966年
+10月17日
+ブラジル
+Brazil	1945年
+10月24日
+ブルネイ
+Brunei Darussalam	1984年
+9月21日
+ブルガリア
+Bulgaria	1955年
+12月14日
+ブルキナファソ
+Burkina Faso	1960年
+9月20日
+ブルンジ
+Burundi	1962年
+9月18日
+カーボベルデ
+Cabo Verde	1975年
+9月16日
+カンボジア
+Cambodia	1955年
+12月14日
+カメルーン
+Cameroon	1960年
+9月20日
+カナダ
+Canada	1945年
+11月9日
+中央アフリカ共和国
+Central African Republic	1960年
+9月20日
+チャド
+Chad	1960年
+9月20日
+チリ
+Chile	1945年
+10月24日
+中国
+China	1945年
+10月24日
+コロンビア
+Colombia	1945年
+11月5日
+コモロ
+Comoros	1975年
+11月12日
+コンゴ
+Congo	1960年
+9月20日
+コスタリカ
+Costa Rica	1945年
+11月2日
+コートジボアール
+Cote D'Ivoire	1960年
+9月20日
+クロアチア
+Croatia	1992年
+5月22日
+キューバ
+Cuba	1945年
+10月24日
+キプロス
+Cyprus	1960年
+9月20日
+チェコ
+Czech Republic	1993年
+1月19日
+朝鮮民主主義人民共和国
+Democratic People's Republic of Korea	1991年
+9月17日
+コンゴ民主共和国
+Democratic Republic of the Congo	1960年
+9月20日
+デンマーク
+Denmark	1945年
+10月24日
+ジブチ
+Djibouti	1977年
+9月20日
+ドミニカ
+Dominica	1978年
+12月18日
+ドミニカ共和国
+Dominican Republic	1945年
+10月24日
+エクアドル
+Ecuador	1945年
+12月21日
+エジプト
+Egypt	1945年
+10月24日
+エルサルバドル
+El Salvador	1945年
+10月24日
+赤道ギニア
+Equatorial Guinea	1968年
+11月12日
+エリトリア
+Eritrea	1993年
+5月28日
+エストニア
+Estonia	1991年
+9月17日
+エスワティニ
+Eswatini	1968年
+9月24日
+エチオピア
+Ethiopia	1945年
+11月13日
+フィジ－
+Fiji	1970年
+10月13日
+フィンランド
+Finland	1955年
+12月14日
+フランス
+France	1945年
+10月24日
+ガボン
+Gabon	1960年
+9月20日
+ガンビア
+Gambia (Republic of the)	1965年
+9月21日
+ジョージア
+Georgia	1992年
+7月31日
+ドイツ
+Germany	1973年
+9月18日
+ガーナ
+Ghana	1957年
+3月8日
+ギリシャ
+Greece	1945年
+10月25日
+グレナダ
+Grenada	1974年
+9月17日
+グアテマラ
+Guatemala	1945年
+11月21日
+ギニア
+Guinea	1958年
+12月12日
+ギニアビサウ
+Guinea Bissau	1974年
+9月17日
+ガイアナ
+Guyana	1966年
+9月20日
+ハイチ
+Haiti	1945年
+10月24日
+ホンジュラス
+Honduras	1945年
+12月17日
+ハンガリ－ 
+Hungary	1955年
+12月14日
+アイスランド
+Iceland	1946年
+11月19日
+インド
+India	1945年
+10月30日
+インドネシア
+Indonesia	1950年
+9月28日
+イラン（回教共和国）
+Iran(Islamic Republic of)	1945年
+10月24日
+イラク
+Iraq	1945年
+12月21日
+アイルランド
+Ireland	1955年
+12月14日
+イスラエル
+Israel	1949年
+5月11日
+イタリア
+Italy	1955年
+12月14日
+ジャマイカ
+Jamaica	1962年
+9月18日
+日本
+Japan	1956年
+12月18日
+ヨルダン
+Jordan	1955年
+12月14日
+カザフスタン
+Kazakhstan	1992年
+3月2日
+ケニア
+Kenya	1963年
+12月16日
+キリバス
+Kiribati	1999年
+9月14日
+クウェート
+Kuwait	1963年
+5月14日
+キルギスタン
+Kyrgyzstan	1992年
+3月2日
+ラオス人民民主共和国 
+Lao People's Democratic Republic	1955年
+12月14日
+ラトビア
+Latvia	1991年
+9月17日
+レバノン
+Lebanon	1945年
+10月24日
+レソト
+Lesotho	1966年
+10月17日
+リベリア
+Liberia	1945年
+11月2日
+リビア
+Libya	1955年
+12月14日
+リヒテンシュタイン
+Liechtenstein	1990年
+9月18日
+リトアニア
+Lithuania	1991年
+9月17日
+ルクセンブルク
+Luxembourg	1945年
+10月24日
+マダガスカル 
+Madagascar	1960年
+9月20日
+マラウィ
+Malawi	1964年
+12月1日
+マレーシア
+Malaysia	1957年
+9月17日
+モルディブ
+Maldives	1965年
+9月21日
+マリ 
+Mali	1960年
+9月28日
+マルタ
+Malta	1964年
+12月1日
+マーシャル諸島
+Marshall Islands	1991年
+9月17日
+モーリタニア
+Mauritania	1961年
+10月27日
+モーリシャス
+Mauritius	1968年
+4月24日
+メキシコ
+Mexico	1945年
+11月7日
+ミクロネシア連邦
+Micronesia(Federated States of)	1991年
+9月17日
+モナコ
+Monaco	1993年
+5月28日
+モンゴル
+Mongolia	1961年
+10月27日
+モンテネグロ
+Montenegro	2006年
+6月28日
+モロッコ
+Morocco	1956年
+11月12日
+モザンビーク
+Mozambique	1975年
+9月16日
+ミャンマー
+Myanmar	1948年
+4月19日
+ナミビア
+Namibia	1990年
+4月23日
+ナウル
+Nauru	1999年
+9月14日
+ネパール
+Nepal	1955年
+12月14日
+オランダ
+Netherlands	1945年
+12月10日
+ニュージーランド
+New Zealand	1945年
+10月24日
+ニカラグア
+Nicaragua	1945年
+10月24日
+ニジェール
+Niger	1960年
+9月20日
+ナイジェリア
+Nigeria	1960年
+10月7日
+ノルウェー
+Norway	1945年
+11月27日
+オマーン
+Oman	1971年
+10月7日
+パキスタン
+Pakistan	1947年
+9月30日
+パラオ
+Palau	1994年
+12月15日
+パナマ
+Panama	1945年
+11月13日
+パプア・ニューギニア
+Papua New Guinea	1975年
+10月10日
+パラグアイ
+Paraguay	1945年
+10月24日
+ペル－
+Peru	1945年
+10月31日
+フィリピン
+Philippines	1945年
+10月24日
+ポーランド
+Poland	1945年
+10月24日
+ポルトガル
+Portugal	1955年
+12月14日
+カタール
+Qatar	1971年
+9月21日
+韓国
+Republic of Korea	1991年
+9月17日
+モルドバ
+Republic of Moldova	1992年
+3月2日
+ルーマニア
+Romania	1955年
+12月14日
+ロシア連邦
+Russian Federation	1945年
+10月24日
+ルワンダ
+Rwanda	1962年
+9月18日
+セントクリストファー・ネイビス
+Saint Kitts and Nevis	1983年
+9月23日
+セントルシア
+Saint Lucia	1979年
+9月18日
+セントビンセントおよびグレナディーン諸島
+Saint Vincent and the Grenadines	1980年
+9月16日
+サモア
+Samoa	1976年
+12月15日
+サンマリノ
+San Marino	1992年
+3月2日
+サントメ・プリンシペ
+Sao Tome and Principe	1975年
+9月16日
+サウジアラビア
+Saudi Arabia	1945年
+10月24日
+セネガル
+Senegal	1960年
+9月28日
+セルビア
+Serbia	2000年
+11月1日
+セイシェル
+Seychelles	1976年
+9月21日
+シエラレオネ
+Sierra Leone	1961年
+9月27日
+シンガポール
+Singapore	1965年
+9月21日
+スロバキア
+Slovakia	1993年
+1月19日
+スロベニア
+Slovenia	1992年
+5月22日
+ソロモン諸島
+Solomon Islands	1978年
+9月19日
+ソマリア
+Somalia	1960年
+9月20日
+南アフリカ
+South Africa	1945年
+11月7日
+南スーダン
+South Sudan	2011年
+7月14日
+スペイン
+Spain	1955年
+12月14日
+スリランカ
+Sri Lanka	1955年
+12月14日
+スーダン
+Sudan	1956年
+11月12日
+スリナム
+Suriname	1975年
+12月4日
+スウェーデン
+Sweden	1946年
+11月19日
+スイス
+Switzerland	2002年
+9月10日
+シリア
+Syrian Arab Republic	1945年
+10月24日
+タジキスタン
+Tajikistan	1992年
+3月2日
+タイ
+Thailand	1946年
+12月16日
+マケドニア・旧ユーゴスラビア共和国
+The former Yugoslav Republic of Macedonia	1993年
+4月8日
+東ティモール
+Timor-Leste	2002年
+9月27日
+トーゴ
+Togo	1960年
+9月20日
+トンガ
+Tonga	1999年
+9月14日
+トリニダード・トバゴ 
+Trinidad and Tobago	1962年
+9月18日
+チュニジア
+Tunisia	1956年
+11月12日
+トルコ
+Turkey	1945年
+10月24日
+トルクメニスタン
+Turkmenistan	1992年
+3月2日
+ツバル
+Tuvalu	2000年
+9月5日
+ウガンダ
+Uganda	1962年
+10月25日
+ウクライナ
+Ukraine	1945年
+10月24日
+アラブ首長国連邦
+United Arab Emirates	1971年
+12月9日
+英国
+United Kingdom of Great Britain and Northern Ireland	1945年
+10月24日
+タンザニア
+United Republic of Tanzania	1961年
+12月14日
+米国
+United States of America	1945年
+10月24日
+ウルグアイ
+Uruguay	1945年
+12月18日
+ウズベキスタン
+Uzbekistan	1992年
+3月2日
+バヌアツ
+Vanuatu	1981年
+9月15日
+ベネズエラ
+Venezuela (Bolivarian Republic of)	1945年
+11月15日
+ベトナム
+Viet Nam	1977年
+9月20日
+イエメン
+Yemen	1947年
+9月30日
+ザンビア
+Zambia	1964年
+12月1日
+ジンバブエ
+Zimbabwe	1980年
+8月25日
