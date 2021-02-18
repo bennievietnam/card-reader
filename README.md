@@ -2,7 +2,8 @@
 OCR Zairyu Card
 
 ## Requirements:
-- cv2 for Python
+- cv2
+- pytesseract
 
 ## Troubeshooting:
 - Install OpenCV for Python (not for Ubuntu) using:
@@ -12,6 +13,10 @@ pip3 install opencv-python
 - Make sure your pip is not too old to read newer versions of OpenCV
 ```
 pip3 install --upgrade pip
+```
+- Install pytesseract
+```
+pip3 install pytesseract
 ```
 
 ## How to run the test:
