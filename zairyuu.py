@@ -129,8 +129,8 @@ def another_try(path):
         result = img2text(sub_img, key, lang)
         info[key] = result
         src_img[key] = sub_img
-        if key == 'expiration_date':
-            cv2.imwrite('/Users/binhna/Desktop/expiration_date.png', src_img[key])
+        # if key == 'expiration_date':
+            # cv2.imwrite('~/expiration_date.png', src_img[key])
     print(f"total prediction time: {time.time() - start_time}")
     for key, value in info.items():
         print(f"{key}: {value}")
